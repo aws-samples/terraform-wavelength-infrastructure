@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Check out this related AWS Prescritive Guidance pattern on deployment: [Deploy resources and services within an AWS Wavelength Zone and associated AWS Region using Terraform](https://apg-library.amazonaws.com/content-viewer/author/8c507de1-208c-4563-bb58-52388ab2fa6d)
+Check out this related AWS Prescriptive Guidance pattern on deployment: [Deploy resources and services within an AWS Wavelength Zone and associated AWS Region using Terraform](https://apg-library.amazonaws.com/content-viewer/author/8c507de1-208c-4563-bb58-52388ab2fa6d)
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ Note: if git is not installed, [install git](https://git-scm.com/book/en/v2/Gett
 #### Optional
 A terraform.vars file can be created to hold the values of variable.tf.
 
-### Step 3: Initilise the directory.
+### Step 3: Initialise the directory.
 ```
 terraform init
 ```
