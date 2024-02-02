@@ -51,7 +51,7 @@ terraform apply
 
 ## Validation
 * Login to AWS account using AWS console
-* Connect to `Bastion_EC2` instance and ping the private IP address of `EC2_Carrier_Gateway`
+* Connect to `Bastion_EC2` instance using the EC2 Instance Connect Endpoint `Bastion Endpoint` and ping the private IP address of `EC2_Carrier_Gateway`
 
 
 ## Security
