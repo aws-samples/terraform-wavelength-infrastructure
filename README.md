@@ -20,13 +20,18 @@ git@github.com:aws-samples/terraform-wavelength-infrastructure.git
 ```
 Note: if git is not installed, [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-### Step 2: Update the variable files in the modules and main variable.tf file.
-* `.../modules/compute/variables.tf` Enter default variable for `"availabilityzone_carriergateway"`
-* `.../modules/vpc/variables.tf` Enter default variables for `"availabilityzone_carriergateway"` `"availabilityzone_bastion"` `"my_ip"`
-* `.../aws-carrier-gateway/variables.tf` Enter default variables for `"carriergateway_subnet_cidr"` `"bastion_subnet_cidr"` `"availabilityzone_carriergateway"` `"availabilityzone_bastion"`
+### Step 2: Create a terraform.tfvars file.
+* Create the following variables and enter values:
+* region
+* vpc_cidr
+* wavelength_subnet_cidr
+* bastion_subnet_cidr
+* availabilityzone_wavelength
+* availabilityzone_bastion
+* my_ip
 
-#### Optional
-A terraform.vars file can be created to hold the values of variable.tf.
+save the file once this step is complete.
+
 
 ### Step 3: Initialise the directory.
 ```
