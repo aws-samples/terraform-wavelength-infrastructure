@@ -21,7 +21,7 @@ git@github.com:aws-samples/terraform-wavelength-infrastructure.git
 Note: if git is not installed, [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Step 2: Create a terraform.tfvars file.
-* Create the following variables and enter values:
+Create the following variables and enter values:
 * region
 * vpc_cidr
 * wavelength_subnet_cidr
@@ -30,7 +30,7 @@ Note: if git is not installed, [install git](https://git-scm.com/book/en/v2/Gett
 * availabilityzone_bastion
 * my_ip
 
-save the file once this step is complete.
+Save the file once this step is complete.
 
 
 ### Step 3: Initialise the directory.
