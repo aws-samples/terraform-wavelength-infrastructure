@@ -22,13 +22,13 @@ Note: if git is not installed, [install git](https://git-scm.com/book/en/v2/Gett
 
 ### Step 2: Create a terraform.tfvars file.
 Create the following variables and enter values:
-* region
-* vpc_cidr
-* wavelength_subnet_cidr
-* bastion_subnet_cidr
-* availabilityzone_wavelength
-* availabilityzone_bastion
-* my_ip
+* `region`
+* `vpc_cidr`
+* `wavelength_subnet_cidr`
+* `bastion_subnet_cidr`
+* `availabilityzone_wavelength`
+* `availabilityzone_bastion`
+* `my_ip`
 
 Save the file once this step is complete.
 
