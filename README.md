@@ -51,8 +51,13 @@ terraform apply
 
 ## Validation
 * Login to AWS account using AWS console
-* Connect to `Bastion EC2` instance using the EC2 Instance Connect Endpoint `Bastion Endpoint` and ping the private IP address of `EC2_Wavelength`
+* To get started with AWS Wavelength, [follow these five steps documented here.](https://aws.amazon.com/wavelength/getting-started/)
 
+## (Optional) Clean up the infrastructure 
+* Enter the following command to clean up
+```
+terraform destroy
+```
 
 ## Security
 
