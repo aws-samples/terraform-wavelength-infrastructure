@@ -33,7 +33,6 @@ Create the following variables and enter values:
 * `vpc_cidr`
 * `wavelength_subnet_cidr`
 * `availabilityzone_wavelength`
-* `my_ip`
 
 Save the file once this step is complete.
 
