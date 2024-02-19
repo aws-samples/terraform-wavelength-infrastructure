@@ -8,7 +8,7 @@ Check out this related AWS Prescriptive Guidance pattern on deployment: [Deploy 
 
 * Active AWS account
 
-* Preferred IDE
+* Integrated Development Environment (IDE)
 
 * Opt-in to required AWS Wavelength Zones
 
