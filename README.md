@@ -4,8 +4,7 @@ This solution demonstrates the deployment of infrastructure to support a 5G appl
 
 ## Solution Overview
 
-![image](https://github.com/aws-samples/terraform-wavelength-infrastructure/assets/139151193/09d341c5-bbcf-4432-b049-de6f165aec5c)
-
+<img src = "https://github.com/aws-samples/terraform-wavelength-infrastructure/assets/139151193/a5122fa3-acac-42c9-9bc3-362410e27882">
 
 
 ## Getting Started
