@@ -8,7 +8,7 @@ Check out this related AWS Prescriptive Guidance pattern on deployment: [Deploy 
 
 * Active AWS account
 
-* AWS Cloud9 environment
+* Preferred IDE
 
 * Opt-in to required AWS Wavelength Zones
 
@@ -25,9 +25,7 @@ Create the following variables and enter values:
 * `region`
 * `vpc_cidr`
 * `wavelength_subnet_cidr`
-* `bastion_subnet_cidr`
 * `availabilityzone_wavelength`
-* `availabilityzone_bastion`
 * `my_ip`
 
 Save the file once this step is complete.
