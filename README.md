@@ -1,5 +1,12 @@
 # Creating AWS Wavelength Infrastructure using Terraform
 
+This solution demonstrates the deployment of infrastructure to support a 5G application in an AWS Wavelength zone using Terraform, the repository will create the foundation your 5G application needs by utilising AWS services and ensuring best practice.
+
+## Solution Overview
+
+![image](https://github.com/aws-samples/terraform-wavelength-infrastructure/assets/139151193/76dd1784-6c79-45f5-82ba-6e2e9334ca87)
+
+
 ## Getting Started
 
 Check out this related AWS Prescriptive Guidance pattern on deployment: [Deploy resources and services within an AWS Wavelength Zone and associated AWS Region using Terraform](https://apg-library.amazonaws.com/content-viewer/author/8c507de1-208c-4563-bb58-52388ab2fa6d)
