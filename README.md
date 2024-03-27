@@ -6,11 +6,6 @@ This solution demonstrates the deployment of infrastructure to support a 5G appl
 
 <img src = "https://github.com/aws-samples/terraform-wavelength-infrastructure/assets/139151193/a5122fa3-acac-42c9-9bc3-362410e27882">
 
-
-## Getting Started
-
-Check out this related AWS Prescriptive Guidance pattern on deployment: [Deploy resources and services within an AWS Wavelength Zone and associated AWS Region using Terraform](https://apg-library.amazonaws.com/content-viewer/author/8c507de1-208c-4563-bb58-52388ab2fa6d)
-
 ## Prerequisites
 
 * Active AWS account
